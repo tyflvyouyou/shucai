@@ -1,0 +1,13 @@
+.header {
+    padding: 30px 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.header .menu-icon{
+    position: absolute;
+    right: 20px;
+}
